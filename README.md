@@ -1,2 +1,2 @@
 # java8-lambda-programming
-examples using java8 functional features
+attempt to achieve various legacy design patterns of java with java8 lambdas functional programming techniques.
